@@ -3,8 +3,8 @@
 
 eda, 모델 학습 등 코드
 
-상세 분석 내용은 노션에
-
+상세 분석 내용은 노션 참조
+https://gold-airedale-c9e.notion.site/1-10ada3c34237802abd18cfb77aa2e385?pvs=74
 
 <데이터 출처>
 1. 따릉이 대여소 정보
