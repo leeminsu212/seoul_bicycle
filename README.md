@@ -11,4 +11,4 @@ https://data.seoul.go.kr/dataList/OA-15182/F/1/datasetView.do
 4. 서울시 날씨 정보
 https://data.kma.go.kr/data/grnd/selectAsosRltmList.do?pgmNo=36
 5. 서울시 일별 평균 대기오염도 정보
-6. https://data.seoul.go.kr/dataList/OA-2218/S/1/datasetView.do
+https://data.seoul.go.kr/dataList/OA-2218/S/1/datasetView.do
